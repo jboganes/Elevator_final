@@ -1,7 +1,7 @@
 # Technical Specification
 
 ### 1. Basic Definitions
-##### 1.1. An order is *placed* when an order button is pressed on the elevator panel inside an elevator, or the elevator panel outside the elevator.
+1.1. An order is *placed* when an order button is pressed on the elevator panel inside an elevator, or the elevator panel outside the elevator.
 ##### 1.2. A *cab call* (or *cab order*) is any order that is placed from a panel inside an elevator.
 ##### 1.3. A *hall call* (or *hall order*) is any order that is placed from a panel outside an elevator.
 ##### 1.4. The *participating elevators* is a set of elevators that remain constant over a test case. This means that even though an elevator is temporarily disabled or non functioning it is still a participating elevator. Furthermore, any elevator that may influence the outcome of the test is a participating elevator.
