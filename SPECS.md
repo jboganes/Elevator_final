@@ -8,7 +8,7 @@
 1.5. The number of participating elevators is refered to as `n`.
 1.6. Everyone of the `n` participating elevators have the exact same floors.
 1.7. The number of floors any of elevator see is refered to as `m`.
-##### 1.8. An order is *accepted* when a participating elevator changes the light corresponding to the order from off to on. If an order is already accepted and this happens, it changes nothing.
+1.8. An order is *accepted* when a participating elevator changes the light corresponding to the order from off to on. If an order is already accepted and this happens, it changes nothing.
 1.9. An order is *completed* when a participating elevator open it's doors at the corresponding floor and the corresponding light is in (or is turned to) off state for this particular elevator. We say that this particular elevator has served the order.
 
 ### 2. Elevator Behaviour
